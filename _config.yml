@@ -1,0 +1,17 @@
+# _config.yml
+title: "Christoffer Järnåker — Projects"
+tagline: "C#/.NET utilities, logging, crypto, and tooling"
+description: "Small, useful C#/.NET utilities and libraries by Christoffer Järnåker (jrnker)."
+url: "https://jrnker.github.io"
+lang: en_US
+timezone: Europe/Stockholm
+
+# Minimal, clean default theme; includes jekyll-seo-tag
+theme: minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+author: "Christoffer Järnåker" 
+
